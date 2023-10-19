@@ -1,0 +1,22 @@
+[
+  {
+    "postId": "17102022110213",
+    "userData": {
+      "userId": 1101,
+      "Name": "John Doe",
+      "Location": "Barrie, Ontario"
+    },
+    "creationTime": 71020221200,
+    "postText": "Study from anywhere has revolutionized the education system at Georgian College. Now students can attend their classes from their favourite places."
+  },
+  {
+    "postId": "17102022110313",
+    "userData": {
+      "userId": 1102,
+      "Name": "John Snow",
+      "Location": "Barrie, Ontario"
+    },
+    "creationTime": 71020221210,
+    "postText": "Keep an eye for the CSS book in library. It might have been booked at the moment but we are gonna need it as soon as it’s back here."
+  }
+]
